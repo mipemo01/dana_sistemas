@@ -8,4 +8,5 @@ mkdir paipoorta catarroja alfafar masanasa
     rm enero
     rm febrero
     mv cd catarroja/enero /cd masanasa
+    git fetch
     
