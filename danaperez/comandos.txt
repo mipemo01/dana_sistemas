@@ -1,0 +1,11 @@
+mkdir paipoorta catarroja alfafar masanasa
+ cd catarroja 
+ touch enero febrero marzo
+    cd ../alfafar   
+    cp cd ../catarroja/enero /cd ../alfafar
+    cd ..
+    cp cd catarroja/* /cd paipoorta
+    rm enero
+    rm febrero
+    mv cd catarroja/enero /cd masanasa
+    
