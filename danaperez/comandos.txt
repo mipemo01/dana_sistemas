@@ -11,4 +11,6 @@ mkdir paipoorta catarroja alfafar masanasa
     git fetch
     mv dana/masanasa/enero dana/masanasa/abril
     cp dana/masanasa/abril dana/hola
+    cd dana/paipoorta 
+    rm -r ../masanasa 
     
